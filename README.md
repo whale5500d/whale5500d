@@ -1,7 +1,7 @@
 <h1 align="center">안녕하세요! 경락(Aiden)입니다 🙌</h1>
 
 - 🌱 현재 **Transformer, RAG, LangGraph, LangChain**에 관심이 있습니다!
-- 📝 [차곡차곡](https://whale2200d-developer.tistory.com/)에 기술 블로그를 운영하고 있습니다!
+- 📝 [차곡차곡](https://whale2200d-developer.tistory.com/)에서 기술 블로그를 운영하고 있습니다!
 - 📫 관심있으신 분 **whale2200d@gmail.com**로 연락주세요!
 
 <h3 align="left">기타 연락처</h3>
