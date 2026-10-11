@@ -1,6 +1,6 @@
 <h1 align="center">안녕하세요! 경락(Aiden)입니다 🙌</h1>
 
-- 🌱 현재 **Transformer, RAG, LangGraph, LangChain**에 관심이 있습니다!
+- 🌱 정의된 문제를 **Client부터 Server까지 구현 및 배포**하고, 결정의 근거를 문서로 정리하고 소통하는 **풀스택 엔지니어**입니다!
 - 📝 [차곡차곡](https://whale2200d-developer.tistory.com/)에서 기술 블로그를 운영하고 있습니다!
 - 📫 관심있으신 분 **whale2200d@gmail.com**로 연락주세요!
 
@@ -11,7 +11,6 @@
 
 <h3 align="left">경력 사항</h3>
 
-경력 사항
 | 회사 | 재직 기간 | 주요 도메인 | 직무 |
 |---|---|---|---|
 | (주)데브툴즈 | 2024.02 ~ 2025.10 (1년 9개월) | 암호화폐 지갑 및 거래소 | Frontend Developer |
@@ -19,22 +18,24 @@
 
 <h3 align="left">프로젝트 이력</h3>
 
-프로젝트 이력
-| 프로젝트 | 기간 | 저장소 |
-|---|---|---|
-| 메시지 기반 자동 일정 생성 | 2026.06 ~ 2026.08 | [저장소 링크](https://github.com/whale5500d/07_scheduling_ai_chatbot) |
-| 약관 기반 RAG 성능 최적화 | 2026.08 ~ 2026.08 | [저장소 링크](https://github.com/whale5500d/08_KTB_4_AI_Performance_Improvement) |
-| 대화 기반 관계 건강도 분석 | 2026.08 ~ 2026.08 | [저장소 링크](https://github.com/KTB-4-AI-Hackathon/AI_Team) |
+| 프로젝트 | 기간 | 주요 기술 | 저장소 |
+|---|---|---|---|
+| 여행 일정 추천 서비스 (Planit, 카카오 부트캠프 팀 프로젝트) | 2026.08 ~ 진행 중 | FastAPI, MySQL(AWS RDS), pytest, GitHub Actions | [저장소 링크](https://github.com/100-hours-a-week/KTB4-20th-AI) |
+| 메시지 기반 자동 일정 생성 | 2026.06 ~ 2026.08 | FastAPI, Docker, AWS EC2, GitHub Actions, LangGraph | [저장소 링크](https://github.com/whale5500d/07_scheduling_ai_chatbot) |
+| 약관 기반 RAG 성능 최적화 | 2026.08 ~ 2026.08 | FastAPI, FAISS, LangGraph, RAGAS | [저장소 링크](https://github.com/whale5500d/08_KTB_4_AI_Performance_Improvement) |
+| 대화 기반 관계 건강도 분석 | 2026.08 ~ 2026.08 | FastAPI, Pydantic, Gemini·Claude API | [저장소 링크](https://github.com/KTB-4-AI-Hackathon/AI_Team) |
+| 거래소 UI 클론 (Hyperliquid) | 2025.02 ~ 2025.08 | Vue, TailwindCSS, Shadcn | [저장소 링크](https://github.com/whale5500d/05_crypto_exchange_clone_hyperliquid) |
+| 가게그만가계 (가계부 웹 앱) | 2023.10 ~ 2023.11 | React, TypeScript, Recoil, MUI, Axios | [저장소 링크](https://github.com/whale5500d/03_account_stop_the_store) |
+| 스노우볼 (주식 배당금 관리 앱) | 2023.08 ~ 2023.12 | Next.js, TypeScript, Emotion | [저장소 링크](https://github.com/whale5500d/02_snowball) |
 
 <h3 align="left">자격 및 교육 이력</h3>
 
-자격 및 교육 이력
 | 항목 | 시기 |
 |---|---|
 | AICE (Basic) | 2026.02 |
 | Zerobase Frontend 11기 (수료) | 2023.06 |
 | Zerobase Backend 34기 (수료) | 2025.08 |
-| Kakao Tech Bootcamp AI 실무 4기 | 진행 중 |
+| Kakao Tech Bootcamp AI 실무 4기 | 진행 중 (2026.11.17 수료 예정) |
 
 <h3 align="left">Frontend</h3>
 <p align="left">
