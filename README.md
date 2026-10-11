@@ -33,7 +33,7 @@
 | 항목 | 시기 |
 |---|---|
 | AICE (Basic) | 2026.02 |
-| Zerobase Frontend 11기 (수료) | 2023.06 |
+| Zerobase Frontend 11기 (수료) | 2023.01 ~ 2023.06 |
 | Zerobase Backend 34기 (수료) | 2025.02 ~ 2025.08 |
 | Kakao Tech Bootcamp AI 실무 4기 | 진행 중 (2026.11.17 수료 예정) |
 
