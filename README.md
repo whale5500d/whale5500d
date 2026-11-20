@@ -26,7 +26,7 @@
 
 | 프로젝트                                                    | 기간              | 주요 기술                                           | 저장소                                                                            |
 | ----------------------------------------------------------- | ----------------- | --------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 여행 일정 추천 서비스 (Planit, 카카오 부트캠프 팀 프로젝트) | 2026.08 ~ 2026.11 | FastAPI, MySQL(AWS RDS), pytest, GitHub Actions     | [저장소 링크](https://github.com/100-hours-a-week/KTB4-20th-AI)                   |
+| 여행 일정 추천 서비스(Planit) | 2026.08 ~ 2026.11 | FastAPI, MySQL(AWS RDS), pytest, GitHub Actions     | [저장소 링크](https://github.com/100-hours-a-week/KTB4-20th-AI)                   |
 | 메시지 기반 자동 일정 생성                                  | 2026.06 ~ 2026.08 | FastAPI, Docker, AWS EC2, GitHub Actions, LangGraph | [저장소 링크](https://github.com/whale5500d/07_scheduling_ai_chatbot)             |
 | 약관 기반 RAG 성능 최적화                                   | 2026.08 ~ 2026.08 | FastAPI, FAISS, LangGraph, RAGAS                    | [저장소 링크](https://github.com/whale5500d/08_KTB_4_AI_Performance_Improvement)  |
 | 대화 기반 관계 건강도 분석                                  | 2026.08 ~ 2026.08 | FastAPI, Pydantic, Gemini·Claude API                | [저장소 링크](https://github.com/KTB-4-AI-Hackathon/AI_Team)                      |
