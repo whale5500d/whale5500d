@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://whale5500d.github.io/" target="_blank" rel="noreferrer">
-    <img src="assets/whale.png" alt="whale5500d 포트폴리오 사이트로 이동" width="240" />
-  </a>
+  <img src="assets/whale.png" alt="whale5500d 고래 마스코트" width="240" />
 </p>
 
 <h1 align="center">안녕하세요! 경락(Aiden)입니다 🙌</h1>
