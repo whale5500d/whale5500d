@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://whale5500d.github.io/" target="_blank" rel="noreferrer">
+    <img src="assets/whale.png" alt="whale5500d 포트폴리오 사이트로 이동" width="240" />
+  </a>
+</p>
+
 <h1 align="center">안녕하세요! 경락(Aiden)입니다 🙌</h1>
 
 - 🌱 정의된 **문제를 해결**하고, 결정의 근거를 문서로 정리하고 소통하는 **개발자**입니다.
